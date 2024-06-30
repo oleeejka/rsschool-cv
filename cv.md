@@ -1,5 +1,5 @@
 # OLEG AFRIKIAN
-![Here's my photo](/rsschool-cv/my_photo.jpg)
+![Here's my photo](/my_photo.jpg)
 
 ## Contact
 ## Phone number:
