@@ -2,13 +2,13 @@
 ![Here's my photo](/my_photo.jpg)
 
 ## Contact information
-* ### Phone number:
+* Phone number:
 +79054798183
-* ### E-mail:
+* E-mail:
 oleg.afrikyan@gmail.com
-* ### Telegram:
+* Telegram:
 @oleeej_ka
-* ### Github:
+* Github:
 @oleeejka
 
 ## Briefly about myself
