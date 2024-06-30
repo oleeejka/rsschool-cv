@@ -2,10 +2,14 @@
 ![Here's my photo](/my_photo.jpg)
 
 ## Contact information
-### Phone number:
+* ### Phone number:
 +79054798183
-### E-mail:
+* ### E-mail:
 oleg.afrikyan@gmail.com
+* ### Telegram:
+@oleeej_ka
+* ### Github:
+@oleeejka
 
 ## Briefly about myself
 * I have a higher education (graduated from *Lomonosov Moscow State University* in 2021).
