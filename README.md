@@ -1,1 +1,1 @@
-https://OLEEEJKA.github.io/rsschool-cv
+https://OLEEEJKA.github.io/rsschool-cv/
