@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="assets/icon.ico" />
+    <title>cv</title>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <ul class="nav-list">
+              <li class="nav-item"><a href="#profile" class="nav-link">Profile</a></li>
+              <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+              <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+              <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+              <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+              <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+              <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+              <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+            </ul>
+          </nav>
+    </header>
+
+    <main class="main">
+
+        <section class="section" id="profile">
+            <h1>OLEG AFRIKIAN</h1>
+            <img src="assets/img/my_photo.jpg" alt="Here's my photo" width="130px" height="200px">
+            <hr>
+        </section>
+
+        <section class="section" id ="contacts">
+            <h2>Contacts</h2>
+            <ul>
+                <li>Phone number: +79054798183</li>
+                <li>E-mail: oleg.afrikyan@gmail.com</li>
+                <li>Telegram: @oleeej_ka</li>
+                <li>Github: @oleeejka</li>
+            </ul> 
+        </section>
+
+        <section class="section" id ="summary">
+            <h2>Summary</h2>
+            <ul>
+            <li>I have a higher education (graduated from <span class="bold">Lomonosov Moscow State University</span> in 2021)</li>
+            <li>From 2022 to 2024 I worked for a large international company <span class="bold">Philip Morris International</span></li>
+            <li>In June 2024, I passed the intensive in <span class="bold">School 21</span> in Moscow</li>
+            <li>I have a high interest and motivation to continuously improve and develop</li>
+            </ul>
+        </section>
+
+        <section class="section" id="skills">
+            <h2>Skills and proficiency</h2>
+            <ul>
+                <li>Python Basics</li>
+                <li>C Basics</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript Basics</li>
+                <li>Git, GitHub</li>
+                <li>Word, Excel, Power Point</li>
+            </ul>
+        </section>
+
+        <section class="section" id="code">
+            <h2>Code sample</h2>
+            <p>Task from CODEWARS. Given a two-dimensional array of integers, return the flattened version of the array with all the integers in the sorted (ascending) order.</p>
+            <pre><code>
+                def flatten_and_sort(array):
+                    newarr = []
+                    for i in range (len (array)) :
+                        for ii in range (len (array[i])) :
+                            newarr.append (array [i] [ii])
+                    newarr.sort()
+                    return (newarr)
+            </code></pre>
+        </section>
+
+        <section class="section" id="courses">
+            <h2>Courses</h2>
+            <ul>
+                <li>Python Basics on the online platform, link: <a href="https://stepik.org/course/58852/promo?search=4580106168">Python Generation: a course for beginners</a></li>
+                <li>School 21: The qualifying intensive in Moscow (June 2024)</li>
+                <li>RS School: Course «JavaScript/Front-end. Stage 0» (in progress)</li>
+            </ul>
+        </section>
+
+        <section class="section" id="languages">
+            <h2>Languages</h2>
+            <ul>
+                <li>Russian - native speaker</li>
+                <li>English - B2</li>
+                <li>German - A2</li>
+                <li>French - A1-A2 (in progress)</li>
+            </ul>
+        </section>
+
+        <section class="section" id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>2021 - Lomonosov Moscow State University</li>
+                <li>2019 - Rostov state medical University</li>
+                <li>2019 - Rostov college of arts</li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer class="footer">
+        <div class="container">
+            <p> <a href="https://rs.school/courses/javascript-ru">RS school: Course «JS/Front-end. Stage 0»</a></p>
+        </div>
+    </footer>
+</body>
+</html>
