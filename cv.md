@@ -38,7 +38,7 @@ def flatten_and_sort(array):
 
 ## Courses
 * Python Basics on the online platform ["Python Generation": a course for beginners](https://stepik.org/course/58852/promo?search=4580106168)
-* *School 21*: The qualifying intensive in Moscow (June 2021)
+* *School 21*: The qualifying intensive in Moscow (June 2024)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## Languages
